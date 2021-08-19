@@ -1,0 +1,2 @@
+# SimpleRedisApp
+Redis uygulaması
